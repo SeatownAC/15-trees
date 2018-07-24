@@ -1,14 +1,7 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) Tree Data Structure
 ====
 
-## To Submit this Assignment
-  * Do all your work in a public repository called `data-structures-and-algorithms`
-  * fork this repository
-  * write all of your code in a directory named `trees`
-  * push to your repository
-  * submit a pull request to this repository
-  * submit a link to your PR in canvas
-  * write a question and observation on canvas
+
 
 ## Requirements  
 #### Configuration  
@@ -23,17 +16,9 @@
   * **lib/** -- directory for holding your programs helper modules
   * **test/** -- directory for holding your programs unit and integration tests
 
-#### Testing  
-  * write at least three test assertions for each method of the Stack and Queue List Data Structures
-  * organize your tests into appropriate describe/it blocks for test output readability
 
-####  Documentation  
-  * in your README, write documentation for you data structures
-  * your documentation should includes code block useage examples
-  * provide instructions for:
-    * installing and using your data structure
-    * accessing each method
-    * running your tests
+
+#Finished tests and code for insert() and remove()
 
 #### Feature Tasks  
   * implement a Tree Constructor
